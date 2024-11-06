@@ -1,0 +1,15 @@
+{
+  "name": "secretmessagedecoder",
+  "version": "1.0.0",
+  "description": "js funtion to print message based on coordinates (x,y)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "jassoncodes",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.7.0",
+    "secretmessagedecoder": "file:"
+  }
+}
